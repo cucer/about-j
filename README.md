@@ -14,9 +14,9 @@ Welcome to modern project management.  Jectask is a non-profit application and i
 
 ## Features
 
-- Multi-Laguage App
+- Multi-Language App
 - Fullscreen mode
-- Large Dashboard
+- User-Friendly Dashboard
 - Drag&Drop Boards
 - Tasks
 - Notes
