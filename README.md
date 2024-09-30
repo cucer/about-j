@@ -1,7 +1,22 @@
+![Logo](https://cagatayucer.com/jectask_banner.png)
 
-# Jectask
+## 🌟 What is Jectask?
 
-Welcome to modern project management.  Jectask is a non-profit application and is completely free. Jectask brings all your ideas, projects and tasks together easily. You can turn every idea into a success project! It helps you plan your projects, track tasks efficiently wherever you are.  Try [Jectask](https://www.jectask.com) for free now!
+Jectask is a non-profit application and is completely free. Jectask brings all your ideas, projects and tasks together easily. You can turn every idea into a success project! It helps you plan your projects, track tasks efficiently wherever you are.  Try [Jectask](https://www.jectask.com) for free now!
+
+
+**Key Features:**
+- **No-Ads**
+- **Multi-Language App**
+- **Fullscreen mode**
+- **User-Friendly Dashboard**
+- **Drag&Drop Boards**
+- **Cross-platform support**
+- **Tasks**
+- **Notes**
+- **Calendar**
+- **Contacts**
+- **Help Center**
 
 ## Color Reference
 
@@ -10,19 +25,6 @@ Welcome to modern project management.  Jectask is a non-profit application and i
 | Fav1 | ![#480083](https://via.placeholder.com/10/480083?text=+) #480083 |
 | Fav2 | ![#ff00c2](https://via.placeholder.com/10/ff00c2?text=+) #ff00c2 |
 | Fav3 | ![#5bd6d5](https://via.placeholder.com/10/5bd6d5?text=+) #5bd6d5 |
-
-
-## Features
-
-- Multi-Language App
-- Fullscreen mode
-- User-Friendly Dashboard
-- Drag&Drop Boards
-- Tasks
-- Notes
-- Calendar
-- Contacts
-- Help Center
 
 
 ## 🔗 Links
@@ -38,4 +40,41 @@ Welcome to modern project management.  Jectask is a non-profit application and i
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+</br>
+
+<p align="center">
+    <a href="https://www.youtube.com/watch?v=HWSwHjuQmCU" target="_blank">
+        <img src="https://www.jectask.com/assets/images/section8/help.png" alt="Get started in 5 minutes with Jectask" width="640px" />
+    </a>
+</p>
+
+<p align="center" style="color:grey;"><i>Click on the image to learn how to get started with Jectask in 5 minutes.</i></p>
+
+## 🚀 Quick Start
+
+### Try Jectask for [**free**](https://www.jectask.com/sign-up)
+
+No installation required!
+
+<table>
+    <tr>
+        <td><img src=https://cagatayucer.com/jectask_dashhboard.png width=600/></td>
+        <td><img src=https://cagatayucer.com/jectask_projects.png width=600/></td>
+    </tr>
+    <tr>
+        <td><img src=https://cagatayucer.com/jectask_tasks.png width=600/></td>
+        <td><img src=https://cagatayucer.com/jectask_notes.png width=600/></td>
+    </tr>
+    <tr>
+        <td><img src=https://cagatayucer.com/jectask_calendar.png width=600/></td>
+        <td><img src=https://cagatayucer.com/jectask_contacts.png width=600/></td>
+    </tr>
+</table>
+
+</br>
+</br>
+
+![Pake](https://cagatayucer.com/jectask_gif.gif)
+
 
